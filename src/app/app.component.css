@@ -9,7 +9,9 @@
 }
 
 .title {
+  font-family: 'Roboto', sans-serif;
   font-size: xx-large;
+  font-weight: 10px;
   letter-spacing: 30px;
   line-height: 0.2;
 }
